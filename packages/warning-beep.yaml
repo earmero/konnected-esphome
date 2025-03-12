@@ -1,6 +1,6 @@
 substitutions:
   warning_beep_index: '1'
-  warning_beep_name: Warning Beep
+  warning_beep_name: Alerta
   warning_beep_shared: 'false'
   warning_beep_internal_only: 'false'
 
