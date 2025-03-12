@@ -1,7 +1,7 @@
 switch:   
 
   - id: siren
-    name: Siren
+    name: Sirena
     pin: 
       number: $alarm
       allow_other_uses: false
