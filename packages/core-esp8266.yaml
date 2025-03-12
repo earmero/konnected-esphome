@@ -52,3 +52,4 @@ button:
 ota:
   - platform: esphome
     id: konnected_ota
+    password: !secrets!otapw
